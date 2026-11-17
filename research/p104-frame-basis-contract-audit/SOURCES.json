@@ -1,0 +1,18 @@
+{
+  "schema": "standalone-audit-source-pins/1",
+  "base_commit": "e54523517d0f03e58352e647c403a5af3e525a57",
+  "scope": "Self-contained finite two-frame check; not registered package metadata or full supplier admission",
+  "upstream_interpreter": {
+    "pr": 7605,
+    "head": "e1d2756eecf03e146338239fee81772a99ba8d4c",
+    "path": "research/p104-timed-helper757/retained/role902/independent/engines/native_verify.py",
+    "sha256": "3049471905b47b385c88378a1a3be7a18b8858aadd035b8a6da2f4a03b470f38"
+  },
+  "files": {
+    "HISTORICAL-NOTICE.txt": "c4536378981af85b4b7b95153a91cfd642f9a58dfec3df41c2a6362fb84e01ed",
+    "README.md": "adf95cf2f15fecd89ed49b90fdb15c2bcee9de46cbbc04181ab12b1dea041bf5",
+    "RESULT.json": "71360af1af41b2c6ef74bf34f017edb75a530dba3ff8daf8e4c2b9d116c83afa",
+    "vendor/native_verify.py": "3049471905b47b385c88378a1a3be7a18b8858aadd035b8a6da2f4a03b470f38",
+    "verify.py": "9b071cb92b4fd8e879a1fc687fee216097ea964ecaac0ba150bd4ad68fc6d440"
+  }
+}
