@@ -1,0 +1,147 @@
+{
+  "scope": "bounded audits only, same-Mac relocation; original native/signed receipts reused, full proof not reproduced",
+  "archive_bytes": 469021,
+  "archive_sha256": "c5ee5ac7736ada30bc88fb0ebf9399ca71f94a5fe645a4ad3d5bceb3a4f32a19",
+  "files": [
+    {
+      "path": "BINDING.md",
+      "bytes": 3350,
+      "sha256": "40c9c03a0bd84b28bff6acdca5ff17113bb82de7534632d0d2ea93a03b0ae3ff"
+    },
+    {
+      "path": "FULL-SCHEMA-SCOPE.md",
+      "bytes": 2254,
+      "sha256": "da87f958d61c921c981246c3e8f89792ab0660412471d23a7818bd9a276b50d9"
+    },
+    {
+      "path": "FULL-SCHEMA.json",
+      "bytes": 1336,
+      "sha256": "ab74356c38adb5328fb14cfb9a8cc78e83bd231057cbd34dd0105bd7bebb0357"
+    },
+    {
+      "path": "H5B-BINDING.json",
+      "bytes": 5120,
+      "sha256": "05322c8cbd43eb28da0d81ddd7c85bf4e9fb7b2750c2502dab83860ca2eddfe8"
+    },
+    {
+      "path": "INPUT-PROVENANCE.json",
+      "bytes": 920,
+      "sha256": "ea1b6f954b5f6180f27aeb2eaaea587c5bb16b4ad19dadd00d11d6896587b4ff"
+    },
+    {
+      "path": "MANIFEST.json",
+      "bytes": 2484,
+      "sha256": "a5f35211d417e97a5a4242767c01b6b9c3f8fa39fc45c8925fa95cecd0723ef7"
+    },
+    {
+      "path": "PRODUCT-FEASIBILITY-SCOPE.md",
+      "bytes": 1790,
+      "sha256": "5507355cad3d805e971f5b8fcbf41daacedf9fb5914d68409367fc00c375e4c5"
+    },
+    {
+      "path": "PRODUCT-FEASIBILITY.json",
+      "bytes": 3020,
+      "sha256": "10ebb75868d4ae6e16007a2af1c54524d314305bc027b423967179dc10841f55"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4289,
+      "sha256": "ae163ab378d692a519ed0237330162bc2ee05a1064cd8be29899e5ed1fb53e10"
+    },
+    {
+      "path": "RELOCATION.json",
+      "bytes": 369,
+      "sha256": "1c481a8140f1a70d2ac29d9b07ecfd2cc9ca3ae2a3c3065a4b3cf827c218bc53"
+    },
+    {
+      "path": "REPLAY.log",
+      "bytes": 5261,
+      "sha256": "e94d275034ff23b27c3e1812132db8eb3d5a0c422f20e2494058cd67159f776d"
+    },
+    {
+      "path": "RESULT.json",
+      "bytes": 3054,
+      "sha256": "99b87996f10919965f610afeeb99dc823f8ed5e1a3a88303e0416474deb2d85b"
+    },
+    {
+      "path": "SEPARATION.json",
+      "bytes": 1151,
+      "sha256": "94715779edcbec1b43f823db05f1df9cc9b385cc6b36e46620de88509cbf54ae"
+    },
+    {
+      "path": "bind_full_schema.py",
+      "bytes": 4654,
+      "sha256": "211f8b295b4bb3f8e56f50e48ae5c1d5224fab482acb156aae9d6e4c84b3b3b7"
+    },
+    {
+      "path": "bind_h5b.py",
+      "bytes": 3924,
+      "sha256": "7d697e832df04d4ab39c29a71d3b5601eafa201ad63c073c1ab49103937a5839"
+    },
+    {
+      "path": "check_reset.py",
+      "bytes": 2229,
+      "sha256": "336772569b632a6004e8546b386a99a509553b6c193256b25c23aa3260125fca"
+    },
+    {
+      "path": "inputs/caller.json",
+      "bytes": 117156,
+      "sha256": "255d89f38cd45e38e5770f559bc43dc217e989032359768cdc7e8cdfd64b47bc"
+    },
+    {
+      "path": "inputs/native.json",
+      "bytes": 296981,
+      "sha256": "bb620330546bae893075a2e0140225d8b8177e2a1cf6e106fe639dd13e4aa2a2"
+    },
+    {
+      "path": "inputs/signed.json",
+      "bytes": 84872,
+      "sha256": "92aba98b23e08adfb400b31f2d5cfb9d7b302617813b26cc547243b23ded68ab"
+    },
+    {
+      "path": "inputs/word.json.gz",
+      "bytes": 389070,
+      "sha256": "93d290ddcfae403414e8196a3bcdba5db8b6e069a55666951c14f1de8bbf40e9"
+    },
+    {
+      "path": "machine.py",
+      "bytes": 14932,
+      "sha256": "ec597bce13275003ff30e4be481c936401826c1d4af642b55eec0c410774d1df"
+    },
+    {
+      "path": "prior-evidence/LAUNCHER.diff",
+      "bytes": 1009,
+      "sha256": "32415fcfdaf21f8899d6940351d223f51a46974dc3b27e3667e0fc8c4e00a608"
+    },
+    {
+      "path": "prior-evidence/REPLAY-REVIEW.json",
+      "bytes": 1451,
+      "sha256": "ea18d35b3d00410496e4dee7218e68d24e7641744733a4032d46d430804a60bc"
+    },
+    {
+      "path": "prior-evidence/REUSED-EVIDENCE.json",
+      "bytes": 406,
+      "sha256": "537b9725e458d73f5c91c2efe5ad5937d2883ae3b2439d3be67dc076cd0d12f6"
+    },
+    {
+      "path": "product_feasibility.py",
+      "bytes": 3199,
+      "sha256": "939e4b6f88557cdc33ad4edae4a2592f2f86ce08d12cca302953bde1dad98087"
+    },
+    {
+      "path": "run_all.py",
+      "bytes": 314,
+      "sha256": "48b5d37c8d06343e6397e5b5b4ca23fccb58b311d76ff2038d5f65e18b3b24b9"
+    },
+    {
+      "path": "separate_histogram.py",
+      "bytes": 2358,
+      "sha256": "e98fc344aa28d318969049aebb53b7982dbf5ec85fd2de7e7c327f704a216953"
+    },
+    {
+      "path": "source_ir.py",
+      "bytes": 27393,
+      "sha256": "54dd93bc50bd10e974c70794df1c13da27f0e3d8cdb6cfe6791a63280096f1b1"
+    }
+  ]
+}
