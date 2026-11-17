@@ -1,0 +1,102 @@
+{
+  "status": "UNVERIFIED_ARCHIVAL_SNAPSHOT_NOT_A_REPRODUCIBLE_FULL_CLOSURE",
+  "public_repository": "SYLforge/integer-mult-bounds",
+  "capture_utc": "2026-11-17T03:02:32.528250+00:00",
+  "candidate_canonical": "e0e5c5a47ab21c194c65263593a1ee1736175ed452a492b1cb456eb620f4deb0",
+  "archive_sha256": "d96e38eb75b782b79669f96ed55e293b3f6d86cdbd161a13e7f8370e2bf7478b",
+  "encoded_sha256": "23a74259aa39cd825771452b6b52a4cc292ca145a23b69e4a104db2f98c0a00f",
+  "files": [
+    {
+      "path": "word-h5b-best.json.gz",
+      "original_sha256": "ec2373e1c06caf9bb0871494ee41ae2538f9abbd0fc360d7db62d27c9ee6889b",
+      "public_sha256": "ec2373e1c06caf9bb0871494ee41ae2538f9abbd0fc360d7db62d27c9ee6889b",
+      "bytes": 389059,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "checkpoint-h5b-final.json",
+      "original_sha256": "382779c2bd0da0a8706ec459740839da03394074e83879ff1773b4640715a0d7",
+      "public_sha256": "30aae7ba5827a32c31a1f9277945fdcdee48ca58312256cdd12c3e957359c41f",
+      "bytes": 2499,
+      "home_prefix_replacements": 1
+    },
+    {
+      "path": "checkpoint-h6a-part1.json",
+      "original_sha256": "18c7eda85f44e5d64e3db7b6f72038392c9ef28ec590806193c2db0753dc7477",
+      "public_sha256": "18c7eda85f44e5d64e3db7b6f72038392c9ef28ec590806193c2db0753dc7477",
+      "bytes": 2252,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "checkpoint-h6a-6gate-hydrogen.json",
+      "original_sha256": "2cce641513bd47a5a70020635a51ab2fc1852b9b1628695b46e94bffc8007b01",
+      "public_sha256": "2cce641513bd47a5a70020635a51ab2fc1852b9b1628695b46e94bffc8007b01",
+      "bytes": 13877,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "checkpoint-h6b-launcher-state.json",
+      "original_sha256": "bac9ed53248838ac68537caee55e0e3eae976a0610bcd766cdff07a03d1710c7",
+      "public_sha256": "bac9ed53248838ac68537caee55e0e3eae976a0610bcd766cdff07a03d1710c7",
+      "bytes": 1192,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "invoice-hydrogen.json",
+      "original_sha256": "c8b1d464e29e50969666219d0e344ca7de56970cb8609443e8bd7973a6fb5ca3",
+      "public_sha256": "c8b1d464e29e50969666219d0e344ca7de56970cb8609443e8bd7973a6fb5ca3",
+      "bytes": 849,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "certs-hydrogen.json",
+      "original_sha256": "68bf5996d80d343889aeadfd763d759259e88fd6229f1dbcda80af32e29a1a99",
+      "public_sha256": "68bf5996d80d343889aeadfd763d759259e88fd6229f1dbcda80af32e29a1a99",
+      "bytes": 643290,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "NATIVE-HYDROGEN-CLEAN.json",
+      "original_sha256": "cef23f99e5f6a8dc4741f046c3d8bf24ab69e2bc926c50cac865acfa2b2002b2",
+      "public_sha256": "cef23f99e5f6a8dc4741f046c3d8bf24ab69e2bc926c50cac865acfa2b2002b2",
+      "bytes": 296951,
+      "home_prefix_replacements": 0
+    },
+    {
+      "path": "h5b_finish_closures_singular_and_tier2_convergence.py",
+      "original_sha256": "f27933ac151c2c7cfc054f92114222aa45f74587cf4e7f8c1fb999c85b12a2ad",
+      "public_sha256": "40248219e91c6c233b7ba49b0ee976b33612a209844fa2037f5f299c4d7e19f8",
+      "bytes": 25150,
+      "home_prefix_replacements": 2
+    },
+    {
+      "path": "h6a_partA_6gate_certify_hydrogen.py",
+      "original_sha256": "2466fcf0c582e8773be4d70596caf0b0097db061d5e8f8059441593b05f32af3",
+      "public_sha256": "53b88561466eed3dff924ea92f66aa3aa58f6a11a8fcd72b626a930780148992",
+      "bytes": 39045,
+      "home_prefix_replacements": 5
+    },
+    {
+      "path": "h6b_partB_7605_clean_launcher_hydrogen.py",
+      "original_sha256": "5f242ea48ed90200e59d6526af29250fadca4ee9cf6eaffb55723fe64a76a71a",
+      "public_sha256": "e5311d51e7cf07dbfe4f6b5fe0c1b328bf8eb87d363a83e38c5f2ef788bdd4aa",
+      "bytes": 22820,
+      "home_prefix_replacements": 1
+    },
+    {
+      "path": "NOTICE",
+      "original_sha256": "6ce82ba99b0b066fb05f11aceb5048f7d849adc822f07f4459208d89abc649e7",
+      "public_sha256": "6ce82ba99b0b066fb05f11aceb5048f7d849adc822f07f4459208d89abc649e7",
+      "bytes": 3972,
+      "home_prefix_replacements": 0
+    }
+  ],
+  "redaction": "Only /Users/<username> prefixes replaced with <LOCAL_HOME>. Originals retained locally; source identity hashes unchanged in provenance. Sanitized scripts are archival, not ready-to-run.",
+  "known_limits": [
+    "Read-double-and-recheck snapshot, not filesystem transaction",
+    "Known changed frames1090/1091 retained as historical evidence",
+    "H6B span-adapted PASS is not original-contract admission",
+    "No signed completion receipt included",
+    "Paths in raw provenance require sanitized publication copy"
+  ]
+}
