@@ -1,0 +1,50 @@
+{
+  "status": "PASS_TWO_FRAME_COUNTEREXAMPLES_ONLY",
+  "python": "3.9.6",
+  "python39_parity_compatibility": true,
+  "scope": "Finite frame regression only; no full word, invoice, erasure, or supplier admission",
+  "frames": [
+    {
+      "frame": 1090,
+      "original_basis": [
+        265,
+        194,
+        164,
+        75
+      ],
+      "changed_basis": [
+        45,
+        75,
+        137,
+        265
+      ],
+      "span_equal": true,
+      "operator_equal": false,
+      "adjoint_equal": false,
+      "witness_column": 0,
+      "restored_operator_equal": true,
+      "wrong_phase_rejected": true
+    },
+    {
+      "frame": 1091,
+      "original_basis": [
+        11,
+        21,
+        51,
+        469
+      ],
+      "changed_basis": [
+        11,
+        21,
+        38,
+        448
+      ],
+      "span_equal": true,
+      "operator_equal": false,
+      "adjoint_equal": false,
+      "witness_column": 16,
+      "restored_operator_equal": true,
+      "wrong_phase_rejected": true
+    }
+  ]
+}
