@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "benchmark_timing": false,
+  "pinned_input_match": true,
+  "commit": "172475c2ca321d3496fda7a2a71478ada5acb948",
+  "graph_compressed_sha256": "341c49e9b9d6e8742f948cba2407f7ad67164f87f4191c21319730cfc8b419d3",
+  "layout_compressed_sha256": "5bd55b71fd1757a2c907bdc2a32f69e29b38f960fa95b67780842502888e2364",
+  "canonical_graph_sha256": "bd3d941f6528341a92b59fb1226e322e98ab6051d32cc0461b3e7cbcae843c22",
+  "legacy_source_sha256": {
+    "fused_search.py": "e0203193cafe11c41e10ea4cfdd318339980d964a1f7b90622d7ddcbd928c830",
+    "multibank_search.py": "2bf99125ed097e1c9573619e7bb552dba7d5beab003097e61ca119852d674e15",
+    "bank_graph.py": "ebbfb912f17918e2a3959d04128e8ced958690ce05020773d8e3d1a39d4c40db"
+  },
+  "kappa": "0.00387561167742",
+  "motif_census": {
+    "3": 6117,
+    "4": 25774
+  },
+  "nonexcluded_motifs": 31891,
+  "selected_motifs": 10000,
+  "options_limit": 24,
+  "batch_size": 524288,
+  "plan_sha256": "5220aff702957ab4b124ba8f6f9f837d0de30b5a657f52fc53aed2db45907ef1",
+  "rows_compared_elementwise": 27397025,
+  "all_scores_matched_legacy_fused_cpu_and_graph_incidence_cpu": true,
+  "ordered_charts_sha256_le_int32_4_columns": "071815343d614301da633293a4c50fdcf5cb6144c917b5a5eede1deee913c67c",
+  "ordered_scores_sha256_le_int64": "0f0d218856d22c6e4d4242edc3026931c3fe544478a1443c07e54defd314e3e0",
+  "boundary_records": [
+    {
+      "motif_index": 2225,
+      "local_ordinal": 1,
+      "cluster": [
+        628,
+        699,
+        701,
+        715
+      ],
+      "charts": [
+        523,
+        522,
+        522,
+        529
+      ],
+      "score": 0,
+      "edgecount": 26,
+      "delta": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "credit": "0E-89",
+      "positive": false
+    }
+  ],
+  "positives": 0,
+  "production_boundary_reconstruction_and_exact_verdict_matched": true
+}
